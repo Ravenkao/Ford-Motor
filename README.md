@@ -33,7 +33,7 @@ Results from Cost-Benefit Analysis
 
  ### Conclusions
 
-•	Recommendation: For dynamic, fast-paced environments, Solid-State LiDAR is the most reliable choice despite its cost. For budget-conscious projects requiring static mapping, Mechanical LiDAR is optimal. Hybrid LiDAR is ideal for mid-range budgets and diverse applications that demand both range and performance balance.
-•	Future Considerations: More advanced analysis could incorporate dynamic pricing, additional performance factors, and real-world testing data to enhance decision-making.
+Recommendation: For dynamic, fast-paced environments, Solid-State LiDAR is the most reliable choice despite its cost. For budget-conscious projects requiring static mapping, Mechanical LiDAR is optimal. 
+Hybrid LiDAR is ideal for mid-range budgets and diverse applications that demand both range and performance balance.
 
- 
+Future Considerations: More advanced analysis could incorporate dynamic pricing, additional performance factors, and real-world testing data to enhance decision-making.
