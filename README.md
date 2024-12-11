@@ -4,7 +4,7 @@ Project Overview
 
 The purpose of this project is to conduct a cost-benefit analysis (CBA) of different LiDAR sensor types (Mechanical, Solid-State, and Hybrid) to determine their suitability for various applications, including autonomous vehicles, drones, and industrial automation. The analysis considers key metrics such as cost, durability, performance, and applicability.
 
-# Key Metrics
+### Key Metrics
 
 	1.	Initial Cost: The cost range for each sensor type, including budget-friendliness.
 	2.	Durability: Resistance to wear and tear, particularly for sensors with or without moving parts.
@@ -14,7 +14,7 @@ The purpose of this project is to conduct a cost-benefit analysis (CBA) of diffe
 	4.	Power Consumption: Energy efficiency of the sensors.
 	5.	Applications: Practical use cases based on the sensor’s features and limitations.
 
-# Key Findings
+### Key Findings
 
 Results from Cost-Benefit Analysis
 
@@ -31,7 +31,7 @@ Results from Cost-Benefit Analysis
 	•	Weaknesses: Less specialized than other types but suitable for diverse applications.
 	•	Score: Mid-high.
 
- # Conclusions
+ ### Conclusions
 
 •	Recommendation: For dynamic, fast-paced environments, Solid-State LiDAR is the most reliable choice despite its cost. For budget-conscious projects requiring static mapping, Mechanical LiDAR is optimal. Hybrid LiDAR is ideal for mid-range budgets and diverse applications that demand both range and performance balance.
 •	Future Considerations: More advanced analysis could incorporate dynamic pricing, additional performance factors, and real-world testing data to enhance decision-making.
